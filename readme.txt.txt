@@ -37,3 +37,6 @@ Cara Menjalankan Program:
 Catatan:
 Program dibuat tanpa menggunakan library fuzzy
 sesuai ketentuan tugas Mata Kuliah Kecerdasan Buatan.
+
+Link Source code GitHub : https://github.com/alwansoleh/TUGAS-BESAR_KECERDASAN-BUATAN
+
