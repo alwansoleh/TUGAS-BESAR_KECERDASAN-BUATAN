@@ -1,6 +1,6 @@
 SISTEM FUZZY PENENTUAN KELAYAKAN KOST
 
-Kelompok:Harimau
+Kelompok:11
 Anggota Kelompok: 
 -Nur Tsalits Alwan Mubarok | 103132400039
 -Andi Muhammad Abid Jaya | 103132400014
